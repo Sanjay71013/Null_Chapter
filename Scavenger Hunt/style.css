@@ -1,0 +1,64 @@
+div.container {
+    width: 100%;
+}
+
+header {
+    width: 100%;
+    padding: 0.5em 0 0 0;
+    color: white;
+    position: relative;
+    left: -5%;
+}
+
+img {
+    width: 7%;
+}
+
+body {
+    font-family: Roboto;
+    background: url('./images/1.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+button {
+    background-color: black;
+    width: 20%;
+    text-align: center;
+    margin: auto;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    font-family: "Open Sans";
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+
+a {
+    color: white;
+    background-color: black;
+    margin-right: 0.5%;
+}
+
+.nl {
+    color: white;
+}
+
+.fbtn {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* CSS makes the page look nice, and yes, it also has part of the flag. Here's part 2: h4ts_4_l0 */
